@@ -65,5 +65,5 @@ while(gameState === true) {
 }
 
 
-//calling functionstarting the game
+//calling function to start the game
 playGame()
